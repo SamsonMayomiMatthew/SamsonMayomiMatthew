@@ -1,7 +1,7 @@
 I’m @SamsonMayomiMatthew, I’m interested in solving real world data problems by drawing useful insights
 from cleaned data, making result oriented conclusions and developing models for result reproductivity.
 
-I’m currently skilled in analysing data with python and querying databases with SQL,
+I’m skilled in analysing data with python and querying databases with SQL,
   I am continuously improving my data analysis and data science skills to suite diverse of form in which data
   may be presented and required to be worked on.
 
